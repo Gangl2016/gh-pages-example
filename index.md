@@ -3,9 +3,9 @@ layout: default
 title: Example
 ---
 
-# Example project
+# Example project 3
 
-- [About the project](about)
+- [About the project](about) ....
 - [Publications](publications)
 - [Team](team)
 
